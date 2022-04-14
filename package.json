@@ -12,11 +12,13 @@
     "@emotion/react": "^11.9.0",
     "@emotion/server": "^11.4.0",
     "@emotion/styled": "^11.8.1",
+    "@mui/lab": "^5.0.0-alpha.77",
     "@mui/material": "^5.6.1",
     "axios": "^0.26.1",
     "next": "12.1.5",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "web3": "^1.7.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
